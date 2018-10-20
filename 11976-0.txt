@@ -25,7 +25,7 @@ Character set encoding: UTF-8
 
 Produced by David Widger.
 
-                            *DIALSTONE lANE*
+                            *DIALSTONE LANE*
 
                                   _By_
 
@@ -1547,7 +1547,7 @@ whatever it is, equally."
 Mr. Chalk, who had been in the clouds during this discussion, came back
 to earth again. "If he consents," he said, sadly; "but he won’t."
 
-"Well, he can only, refuse," said Mr. Tredgold; "and, anyway, we’ll have
+"Well, he can only refuse," said Mr. Tredgold; "and, anyway, we’ll have
 the first refusal. Things like that soon get about. What do you say to a
 stroll? I can think better while I’m walking."
 
@@ -1821,11 +1821,11 @@ for love or money. That’ll show you what she is."
 "I’ve told her over and over again, sir," was the reply, "and all she
 says is she’s not afraid of you, nor six like you."
 
-[Illustration: _The captain fell back silent, and Mr. Tasker, pausing in
+The captain fell back silent, and Mr. Tasker, pausing in
 a respectful attitude, watched him wistfully. The captain’s brows were
 bent in thought, and Mr. Tasker, reminding himself that crews had
 trembled at his nod and that all were silent when he spoke, felt a
-flutter of hope._]
+flutter of hope.
 
 "Well," said the captain, sharply, as he turned and caught sight of him,
 "what are you waiting there for?"
@@ -7427,7 +7427,7 @@ Tredgold, sternly. "You are returning to the subject of uncles."
 
 "Before we leave it—for ever," said Mr. Tredgold, dramatically, "I
 should like, if I am permitted, to make just one more remark on the
-subject. I would not, for all the wealth of this world, be your uncle
+subject. I would not, for all the wealth of this world, be your uncle.
 Where are you going?"
 
 "Indoors," said Miss Drewitt, briefly.
